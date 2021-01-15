@@ -1,6 +1,7 @@
 import requests
 from pprint import pprint
 
+
 key = '5a81NyUX2XpAQzfBDpGyKAHbaoYehmEinUE7x9Gq%2FNhzx%2BToKCn%2BhlhuJpuFZriS2DzSfoUrRplDhMlPoKU%2BxQ%3D%3D'
 return_type = 'json'
 num_of_rows = '5'
